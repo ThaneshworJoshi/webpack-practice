@@ -1,0 +1,51 @@
+# Node.js / JavaScript
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Java
+*.class
+*.log
+*.jar
+*.war
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# JetBrains
+*.iml
+*.iws
+
+# Log files
+*.log
+
+# Build directories
+/dist/
+/prod-dist/
+/build/
+/out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Miscellaneous
+*.swp
+*.swo
+*~
